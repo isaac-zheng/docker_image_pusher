@@ -6,3 +6,4 @@ infiniflow/sandbox-executor-manager:latest
 mysql:8.0.39
 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
 valkey/valkey:8
+registry.cn-hangzhou.aliyuncs.com/infiniflow/ragflow:v0.20.5-slim
