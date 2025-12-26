@@ -1,9 +1,6 @@
-infiniflow/ragflow:v0.20.5-slim
-infiniflow/ragflow:v0.20.5
 infiniflow/ragflow:v0.22.1
 redis:7.2-alpine
 elasticsearch:8.11.3
-infiniflow/infinity:v0.6.0-dev5
 infiniflow/infinity:v0.6.11
 infiniflow/sandbox-executor-manager:latest
 mysql:8.0.39
@@ -13,3 +10,4 @@ oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
 infiniflow/text-embeddings-inference:cpu-1.8
 infiniflow/text-embeddings-inference:1.8
 kibana:8.11.3
+alpine:latest
