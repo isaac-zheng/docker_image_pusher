@@ -1,7 +1,7 @@
-infiniflow/ragflow:v0.22.1
+infiniflow/ragflow:v0.23.1
 redis:7.2-alpine
 elasticsearch:8.11.3
-infiniflow/infinity:v0.6.11
+infiniflow/infinity:v0.6.15
 infiniflow/sandbox-executor-manager:latest
 mysql:8.0.39
 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
