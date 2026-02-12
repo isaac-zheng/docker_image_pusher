@@ -1,13 +1,13 @@
 infiniflow/ragflow:v0.23.1
 redis:7.2-alpine
 elasticsearch:8.11.3
-infiniflow/infinity:v0.6.15
 infiniflow/sandbox-executor-manager:latest
 mysql:8.0.39
 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
 valkey/valkey:8
-oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
-infiniflow/text-embeddings-inference:cpu-1.8
-infiniflow/text-embeddings-inference:1.8
 kibana:8.11.3
 alpine:latest
+python:3.12-slim
+node:20-alpine
+nginx:stable-alpine
+ghcr.io/astral-sh/uv:latest
